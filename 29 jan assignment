@@ -1,0 +1,16 @@
+Guido van Rossum
+It supports Object oriented and structured programing. it also supports functional and aspect oriented programing.
+Yes
+.py
+Interpreted language
+if else, while loop etc
+#
+sys.version, python_version()
+lambda
+preferred installer program
+max(), sum(), input()
+79 characters
+1. Easy to code. 2. Can be used for various purpose like web development, trading, AI etc
+Managed by python heap containg all python objects and data structures.
+1. Right-clicking This PC and going to Properties.2. Clicking on the Advanced system settings in the menu on the left. 3.Clicking on the Environment Variables button o​n the bottom right. 4. In the System variables section, selecting the Path variable and clicking on Edit. The next screen will show all the directories that are currently a part of the PATH variable. 5. Clicking on New and entering Python’s install directory.
+Yes
